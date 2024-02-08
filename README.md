@@ -13,7 +13,7 @@
 (Attention: le nom du pays doit etre en anglais !!!!).
 
 ## Instructions d'instalation
-1. clonez le depot: `git clone https://github.com`
+1. clonez le depot: `git clone https://github.com/Rtmt92`
 2. Installez les dependances suivantes: 
     - `npm init -y`
     - `npm install typescript --save-dev`
